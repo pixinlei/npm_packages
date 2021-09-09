@@ -16,3 +16,15 @@ npm run build
 ```
 
 For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+# TableBar 组件
+
+- 
+```
+props {
+    height: [String, Number],
+    default: '200'   
+}
+
+可插入solt, 放到里面
+```

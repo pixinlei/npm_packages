@@ -3,13 +3,16 @@ import MoorButton from './packages/button/index.js';
 import MoorSelect from './packages/select/index.js';
 import MoorInput from './packages/input/index.js';
 import MoorSwitch from './packages/switch/index.js';
+import TableBar from './packages/TableBar/index.js';
+
 
 const components = [
   HelloWorld,
   MoorButton,
   MoorSelect,
   MoorInput,
-  MoorSwitch
+  MoorSwitch,
+  TableBar
 ]
 
 const install = function(Vue, opts = {}) {
@@ -29,5 +32,6 @@ export default {
   MoorButton,
   MoorSelect,
   MoorInput,
-  MoorSwitch
+  MoorSwitch,
+  TableBar
 }

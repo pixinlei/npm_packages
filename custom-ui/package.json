@@ -1,8 +1,8 @@
 {
-  "name": "custom-ui",
+  "name": "pixinlei_custom_ui",
   "description": "An ui project base on Vue.js ",
   "version": "1.0.3",
-  "author": "frankxjkuang <frankxjkuang@gmail.com>",
+  "author": "",
   "license": "MIT",
   "main": "dist/custom-ui.js",
   "private": false,
